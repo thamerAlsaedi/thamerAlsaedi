@@ -24,9 +24,23 @@ I have successfully led several projects for both government and private sectors
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
+### **Additional Libraries & Tools**
+
 - **Spring Security**  
   ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)  
   Provides authentication, authorization, and security for your Spring applications.
+
+- **Hibernate**  
+  ![Hibernate](https://img.shields.io/badge/Hibernate-8D8D8D?style=flat&logo=hibernate&logoColor=white)  
+  An ORM framework that simplifies the interaction with databases and eliminates the need for boilerplate code.
+
+- **JPA (Java Persistence API)**  
+  ![JPA](https://img.shields.io/badge/JPA-4E9F3D?style=flat&logo=java&logoColor=white)  
+  Maps Java objects to database tables, providing an easy way to persist data.
+
+- **Apache Kafka**  
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  
+  A distri
 
 ### 🛢️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)

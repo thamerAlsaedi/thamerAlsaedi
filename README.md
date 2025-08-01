@@ -40,7 +40,7 @@ I have successfully led several projects for both government and private sectors
 
 - **Apache Kafka**  
   ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  
-  A distri
+  A distributed streaming platform used to handle real-time data streams and event-driven architectures.
 
 ### 🛢️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)

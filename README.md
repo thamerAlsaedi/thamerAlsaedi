@@ -1,99 +1,164 @@
-# 👋 I'm Thamer Alsaedi
+# Thamer Alsaedi
 
-🎯 **Software Engineer** with a focus on building high-performance backend systems, intuitive front-end interfaces, and automating CI/CD pipelines for seamless deployment. Experienced in delivering scalable and secure microservices using cutting-edge technologies across cloud environments.
+<div align="center">
 
----
+**Senior Software Engineer** | Backend Architecture | Cloud Infrastructure | Microservices Design
 
-## 🧑‍💻 About Me  
-I am a **Software Engineer** with 4+ years of experience designing, developing, and deploying enterprise-level applications. My expertise spans **backend architecture** with **Java Spring Boot**, cloud computing, microservices design, and the automation of **CI/CD pipelines**. I am passionate about ensuring system security, scalability, and efficiency through the integration of modern cloud technologies like **AWS**, **Oracle Cloud**, and **Azure**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thamer-alsaedi-92026b163/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thamer_alsaedi@outlook.com)
 
-I have successfully led several projects for both government and private sectors, where I designed solutions from the ground up, adhering to industry best practices, ensuring optimal performance, and focusing on seamless user experiences.
-
----
-
-## 🧠 Skills
-
-### 🎨 Front-End  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-### 🔧 Back-End  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-
-### **Additional Libraries & Tools**
-- **Spring Security**  
-  ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)  
-  Provides authentication, authorization, and security for your Spring applications.
-
-- **Hibernate**  
-  ![Hibernate](https://img.shields.io/badge/Hibernate-8D8D8D?style=flat&logo=hibernate&logoColor=white)  
-  An ORM framework that simplifies the interaction with databases and eliminates the need for boilerplate code.
-
-- **JPA (Java Persistence API)**  
-  ![JPA](https://img.shields.io/badge/JPA-4E9F3D?style=flat&logo=java&logoColor=white)  
-  Maps Java objects to database tables, providing an easy way to persist data.
-
-- **Apache Kafka**  
-  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  
-  A distributed streaming platform used to handle real-time data streams and event-driven architectures.
-
-### 🛢️ Database  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
-### 🧪 Testing & Automation  
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=JUnit5&logoColor=white)  
-![Mockito](https://img.shields.io/badge/Mockito-ACDCD2?style=flat&logo=Mockito&logoColor=white)  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
 ---
 
-## ☁️ Cloud Compute
+## 👋 About Me
 
-### 🌥️ **AWS (Amazon Web Services)**  
-- Advanced experience in deploying and managing microservices with **AWS Lambda**, **Elastic Kubernetes Service (EKS)**, and **SNS**.
-- Proficient in **IAM (Identity and Access Management)** for secure access controls and **Secrets Manager** for managing sensitive data securely.
-- Expertise in optimizing cloud infrastructure for **scalability**, **performance**, and **cost-efficiency**.
+Accomplished **Software Engineer** with **4+ years** of proven expertise in designing, architecting, and deploying enterprise-grade applications at scale. Specialized in building high-performance backend systems using **Java Spring Boot**, implementing resilient microservices architectures, and automating CI/CD pipelines across cloud environments. 
 
-### 🌥️ **Oracle Cloud Infrastructure (OCI)**  
-- Hands-on experience in utilizing **Oracle Kubernetes Engine (OKE)** and **Oracle Cloud databases** to deploy scalable applications.
-- Deep understanding of **OCI networking and security services** to ensure high availability and robust security for cloud-based applications.
-
-### 🌥️ **Microsoft Azure**  
-- Experienced in deploying cloud-native applications using **Azure App Services**, **Azure Functions**, and **Azure Kubernetes Service (AKS)**.
-- Proficient in leveraging **Azure Blob Storage** and **Azure Active Directory (AAD)** for secure and efficient data management and access control.
-- Expertise in utilizing **Azure DevOps** for end-to-end CI/CD pipeline automation.
+Demonstrated success in delivering secure, scalable solutions for both government and private sector organizations, with a strong focus on system reliability, performance optimization, and seamless user experiences.
 
 ---
 
-## 💻 Projects  
-Below are some key projects I have worked on:
+## 🛠️ Technical Skills
 
-### 📱 **ThamerNumbers**  
-A comprehensive accounting solution for small businesses, designed to simplify inventory management, sales tracking, and reporting.  
-- **Technologies**: Java, Spring Boot, MySQL, React  
-- **Key Features**: Real-time sales tracking, detailed financial reporting, user-friendly interface for inventory management.
+### 🔷 Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
-### 🛠️ **Personal Portfolio Website**  
-A responsive personal website to showcase my skills, experience, and projects. Designed with modern web technologies to ensure a smooth user experience across devices.  
-- **Technologies**: HTML, CSS, JavaScript, Bootstrap  
-- **Key Features**: Interactive project gallery, contact form, skill-based badges, and detailed project descriptions.
+**Expertise**: RESTful APIs • Microservices Architecture • Event-Driven Systems • ORM (Hibernate/JPA)
 
-### 🧪 **E-commerce Platform**  
-A full-featured e-commerce platform that enables users to browse, purchase products, and manage orders. The backend integrates secure user authentication and payment processing.  
-- **Technologies**: Spring Boot, React, PostgreSQL  
-- **Key Features**: Secure login, product management, real-time order tracking, and user account management.
+### 🎨 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Expertise**: Responsive Design • Component-Based Architecture • Cross-Browser Compatibility
+
+### 🗄️ Database Management
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+**Expertise**: Database Design • Query Optimization • Data Persistence Strategies
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+- **AWS**: Lambda • EKS • SNS • IAM • Secrets Manager • Cost Optimization
+- **Oracle Cloud**: OKE • Oracle Databases • Networking • Security Services
+- **Azure**: App Services • Functions • AKS • Blob Storage • AAD • DevOps Pipelines
+
+### 🧪 Testing & DevOps
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-ACDCD2?style=flat-square&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+**Expertise**: Unit Testing • API Testing • CI/CD Automation • Version Control
 
 ---
 
-## 📫 Contact Me  
-- 📧 **Email**: [thamer_alsaedi@outlook.com](mailto:thamer_alsaedi@outlook.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/thamer-alsaedi-92026b163](https://www.linkedin.com/in/thamer-alsaedi-92026b163/)
+## 📂 Professional Projects
+
+### 📊 ThamerNumbers
+**Accounting & Inventory Management Solution**
+
+A comprehensive accounting platform designed to streamline operations for small businesses with real-time analytics and reporting.
+
+```
+Frontend: React | Backend: Java Spring Boot | Database: MySQL
+```
+
+**Key Features**:
+- ✅ Real-time sales tracking and analytics
+- ✅ Automated financial reporting
+- ✅ Inventory management dashboard
+- ✅ Multi-user support with role-based access
+
+---
+
+### 🛒 E-Commerce Platform
+**Full-Featured Online Marketplace**
+
+End-to-end e-commerce solution with secure payment processing, order management, and customer relationship management.
+
+```
+Frontend: React | Backend: Spring Boot | Database: PostgreSQL
+```
+
+**Key Features**:
+- ✅ Secure authentication with Spring Security
+- ✅ Product catalog & inventory management
+- ✅ Real-time order tracking
+- ✅ Customer account management
+- ✅ Transaction processing
+
+---
+
+### 💼 Personal Portfolio Website
+**Responsive Digital Presence**
+
+Modern, SEO-optimized personal portfolio showcasing professional experience and project portfolio.
+
+```
+Technologies: HTML5 | CSS3 | JavaScript | Bootstrap
+```
+
+**Key Features**:
+- ✅ Interactive project gallery
+- ✅ Contact management system
+- ✅ Responsive design
+- ✅ Accessibility compliance
+
+---
+
+## 💡 Core Competencies
+
+```
+System Architecture          Microservices Design       API Development
+Cloud Infrastructure         Database Optimization      Security Implementation
+CI/CD Pipeline Automation    Performance Tuning         Scalability Engineering
+DevOps Practices            Enterprise Solutions       Technical Leadership
+```
+
+---
+
+## 📈 GitHub Statistics
+
+```
+Languages: Java • JavaScript • SQL • Python
+Frameworks: Spring Boot • React • Bootstrap
+Databases: PostgreSQL • MySQL • SQL Server
+Cloud: AWS • Oracle Cloud • Azure
+```
+
+---
+
+## 📬 Get In Touch
+
+<div align="center">
+
+**Interested in collaborating or have a great opportunity?**
+
+[![Email](https://img.shields.io/badge/📧_Email-thamer_alsaedi@outlook.com-D14836?style=for-the-badge)](mailto:thamer_alsaedi@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-thamer--alsaedi-0077B5?style=for-the-badge)](https://www.linkedin.com/in/thamer-alsaedi-92026b163/)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my profile interesting, feel free to star my repositories!
+
+**Last Updated**: November 2025
+
+</div>
